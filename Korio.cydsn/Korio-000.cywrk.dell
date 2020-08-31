@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Korio-000\Korio\TopDesign">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Configuration.h">
 <ExpandedNodeIds>
 <v>Korio-000</v>
 <v>Korio-000\Korio</v>
@@ -48,19 +48,6 @@
 <v>Korio-000\Korio\Generated_Source\PSoC4\CapSense</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>Korio-000</v>
-<v>Korio-000\Korio</v>
-<v>Korio-000\Korio\TopDesign</v>
-<v>Korio-000\Korio\Korio.cydwr</v>
-<v>Korio-000\Korio\Korio.cydwr\Pins</v>
-<v>Korio-000\Korio\Korio.cydwr\Analog</v>
-<v>Korio-000\Korio\Korio.cydwr\Clocks</v>
-<v>Korio-000\Korio\Korio.cydwr\Interrupts</v>
-<v>Korio-000\Korio\Korio.cydwr\System</v>
-<v>Korio-000\Korio\Korio.cydwr\Directives</v>
-<v>Korio-000\Korio\Korio.cydwr\Flash Security</v>
-<v>Korio-000\Korio\Header Files</v>
-<v>Korio-000\Korio\Header Files\cyapicallbacks.h</v>
 <v>Korio-000\Korio\Header Files\myHeader.h</v>
 <v>Korio-000\Korio\Source Files</v>
 <v>Korio-000\Korio\Source Files\softDebug</v>
@@ -82,6 +69,19 @@
 <v>Korio-000\Korio\Generated_Source\PSoC4\CapSense</v>
 <v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense.h</v>
 <v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Adc.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Adc.h</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Adc_INT.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Configuration.h</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Control.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Control.h</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Filter.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Filter.h</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_INT.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Processing.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Processing.h</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_RegisterMap.h</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Sensing.c</v>
+<v>Korio-000\Korio\Generated_Source\PSoC4\CapSense\CapSense_Sensing.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -177,7 +177,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="732, 459" SelectedTabbedMdiWindow="abdbabf7-787e-48f8-a2d9-b6fcc3da0923"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="b761508f-212a-4319-9c6d-c468df5644d9" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\sys.c" Guid="5d7f2f09-2a7b-4c47-8a98-b8ce974c7823" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\main.c" Guid="a6301231-59ab-44a0-90e9-09bc706f9c1a" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\Generated_Source\PSoC4\CapSense_Configuration.h" Guid="3d3913c9-a148-4153-bb6e-65a07eff6069" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\TopDesign\TopDesign.cysch" Guid="abdbabf7-787e-48f8-a2d9-b6fcc3da0923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="776, 459" SelectedTabbedMdiWindow="3d3913c9-a148-4153-bb6e-65a07eff6069"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="b761508f-212a-4319-9c6d-c468df5644d9" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\sys.c" Guid="5d7f2f09-2a7b-4c47-8a98-b8ce974c7823" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\main.c" Guid="a6301231-59ab-44a0-90e9-09bc706f9c1a" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\Generated_Source\PSoC4\CapSense_Configuration.h" Guid="3d3913c9-a148-4153-bb6e-65a07eff6069" /><DocumentWindow Key="C:\Users\dell\Desktop\GIT\Korio.cydsn\TopDesign\TopDesign.cysch" Guid="abdbabf7-787e-48f8-a2d9-b6fcc3da0923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
